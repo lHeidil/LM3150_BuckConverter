@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\LM3150_BuckConverter\Pick Place for LM3150_BuckConverter.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/09/21
+Time:       01:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment       Layer    Footprint          Center-X(mm) Center-Y(mm) Rotation Description                        
+C2         ""            TopLayer C1206              34.9250      49.4030      270      "CAP CER 10UF 25V X7R 1206"        
+U1         LM3150MH/NOPB TopLayer LM3150MH/NOPB      40.2590      46.2280      0        "IC REG CTRLR BUCK 14TSSOP"        
+C5         Css           TopLayer C0805              34.7980      43.8150      90       "CAP CER 0.068UF 25V X7R 0805"     
+R1         Ron           TopLayer R0805              30.4800      43.7013      90       "RES 56.2K OHM 1% 1/8W 0805"       
+R2         Rlim          TopLayer R0805              46.7360      42.0370      180      "RES SMD 1.91K OHM 1% 1/8W 0805"   
+R3         Rfb2          TopLayer R0805              48.7680      35.3150      90       "RES SMD 22.6K OHM 1% 1/8W 0805"   
+R4         Rfb1          TopLayer R0805              46.8630      35.3205      270      "RES 4.99K OHM 1% 1/8W 0805"       
+J2         Output        TopLayer TB006-508-02BE     60.0710      61.7220      0        "TERMINAL BLOCK, SCREW TYPE, 5.08" 
+M2         Mosfet        TopLayer CSD18540Q5B        50.2920      49.1490      0        "MOSFET N-CH 60V 100A 8VSON"       
+M1         Mosfet        TopLayer CSD18540Q5B        50.2655      54.4830      180      "MOSFET N-CH 60V 100A 8VSON"       
+L1         Coil          TopLayer MPCV1060L1R0       62.9920      50.4190      0        "FIXED IND 1UH 26A 1.87 MOHM SMD"  
+J1         Input         TopLayer TB006-508-02BE     47.4980      61.7220      0        "TERMINAL BLOCK, SCREW TYPE, 5.08" 
+D1         Dbst          TopLayer CUS08F30           50.6730      45.0850      0        "DIODE SCHOTTKY 30V 800MA USC"     
+D2         Schottky      TopLayer CUS08F30           50.6730      41.8074      0        "DIODE SCHOTTKY 30V 800MA USC"     
+C8         Cvcc          TopLayer C0805              40.2590      49.7840      0        "CAP CER 4.7UF 16V X7R 0805"       
+C11        Co2           TopLayer A765EB157M0JLAE020 65.2780      39.7510      270      "CAP ALUM POLY 150UF 20% 6.3V SMD" 
+C10        Co1           TopLayer A765EB157M0JLAE020 58.1660      39.7510      270      "CAP ALUM POLY 150UF 20% 6.3V SMD" 
+C3         Cin3          TopLayer C1206              32.6390      49.4030      270      "CAP CER 10UF 25V X7R 1206"        
+C1         Cin1          TopLayer Cap860010675016    33.0200      60.5790      0        "CAP ALUM 150UF 20% 63V RADIAL"    
+C9         Cff           TopLayer C0805              50.6730      35.4330      270      "CAP CER 150PF 50V C0G/NPO 0805"   
+C6         Cen           TopLayer C0805              32.7409      43.8150      90       "CAP CER 1000PF 50V X7R 0805"      
+C4         Cbyp          TopLayer C0805              30.4800      49.9770      270      "CAP CER 0.1UF 50V X7R 0805"       
+C7         Cbst          TopLayer C0805              53.7210      45.0850      0        "CAP CER 0.47UF 16V X7R 0805"      
